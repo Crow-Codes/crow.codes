@@ -3,7 +3,7 @@ description: "11ty Lux starter themes for eleventy projects."
 image: "/img/crow-codes-logo.png"
 language: "en"
 locale: en_US
-favicon: /img/logos.png
+favicon: /img/crow-codes-logo.png
 url: "http://localhost:8080"
 metasocial: 
  - facebook: "https://www.facebook.com/"
@@ -13,7 +13,7 @@ metasocial:
 sidebar: 
  title: "11ty Lux"
  sub_title: "11ty Lux starter themes for eleventy projects."
- image: "/img/logos.png" 
+ image: "/img/crow-codes-logo.png" 
  list: 
     - nav: Articles
       url: /
