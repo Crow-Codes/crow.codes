@@ -1,5 +1,5 @@
 ---
-Title: "Linux is incredible"
+title: "Linux is incredible"
 description: "I love linux"
 date: 2025-10-23
 category: post
