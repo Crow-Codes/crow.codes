@@ -1,5 +1,6 @@
 ---
 title: "O Captain! My Captain!"
+date: 2018-08-24
 author: Walt Whitman
 description: 
 editor: Alex Gil

@@ -1,5 +1,6 @@
 ---
 title: "Narrative of the Life of Frederick Douglass"
+date: 2018-08-24
 description: 
 author: Frederick Douglass
 editor: Alex Gil

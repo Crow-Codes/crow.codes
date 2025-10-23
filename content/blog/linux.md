@@ -1,6 +1,7 @@
 ---
 title: "Linux is incredible"
 description: "I love linux"
+image: "/img/logos.png"
 date: 2025-10-23
 category: Posts
 tags:

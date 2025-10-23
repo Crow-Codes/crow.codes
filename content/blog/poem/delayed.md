@@ -1,5 +1,6 @@
 ---
 title: Delayed till she had ceased to know
+date: 2018-08-24
 author: Emily Dickinson
 description: 
 editor: Alex Gil
