@@ -1,6 +1,7 @@
 ---
 title: "Tabby"
 description: "A tabby is any domestic cat that has a coat featuring distinctive stripes, dots, lines or swirling patterns, usually with a mark resembling an 'M' on its forehead."
+date: 2025-09-01
 category: Pet
 tags: 
  - tabby
