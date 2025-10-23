@@ -1,5 +1,6 @@
 ---
 title: A Julia de Burgos
+date: 2018-08-24
 author: Julia de Burgos
 description: 
 editor: Alex Gil

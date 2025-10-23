@@ -1,6 +1,6 @@
 ---
 title: "Black Cats"
-date: 2025-09-01
+date: 2025-09-02
 description: "The void blinks back"
 category: Pet
 tags: 

@@ -1,5 +1,6 @@
 ---
 title: A Raisin in the Sun
+date: 2018-08-24
 author: Lorraine Hansberry
 description: 
 editor: Alex Gil
