@@ -1,11 +1,11 @@
 ---
 Title: "Linux is incredible"
 description: "I love linux"
-image: /img/crow-codes-logo.png
 date: 2025-10-23
-category: Markdown
+category: post
 tags:
  - featured
+ - linux
 ---
 
 # This is my heading
